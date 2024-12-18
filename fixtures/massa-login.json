@@ -1,0 +1,10 @@
+{
+    "loginvalido":{
+        "email": "joaopedrosoaresdebrito@gmail.com",
+        "senha": "senha"
+    },
+    "logininvalido":{
+        "email": "joaopedrosoaresdebrito@gmail.com",
+        "senha": "senhaerrada"
+    }
+}
